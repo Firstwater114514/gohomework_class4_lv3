@@ -96,5 +96,5 @@ key需要friend
 
 该功能会显示该好友位于哪个分组
 
-##该作业的数据库的表：
+## 该作业的数据库的表：
 ![$}TX% BN``)`7NONBS`79GH](https://user-images.githubusercontent.com/116962163/205443106-89c484a7-55f2-45b7-a3d3-9662a5bd3f6f.png)
